@@ -3,6 +3,7 @@ import { lusitana } from '@/app/ui/fonts'
 import Search from '@/app/ui/search'
 import { CustomersTable, type FormattedCustomersTable } from '@/app/lib/definitions'
 
+// eslint-disable-next-line @typescript-eslint/no-redeclare
 export default async function CustomersTable ({
   customers
 }: {
