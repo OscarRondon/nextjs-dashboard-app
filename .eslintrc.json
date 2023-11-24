@@ -17,6 +17,7 @@
 	  "@typescript-eslint/triple-slash-reference": "off",
     "@typescript-eslint/strict-boolean-expressions": "off",
     "@typescript-eslint/prefer-nullish-coalescing": "off",
-    "@typescript-eslint/no-unused-vars":"off"
+    "@typescript-eslint/no-unused-vars":"off",
+    "@typescript-eslint/no-misused-promises":"off"
   }
 }

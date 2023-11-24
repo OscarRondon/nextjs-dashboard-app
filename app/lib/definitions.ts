@@ -86,3 +86,4 @@ export interface InvoiceForm {
   amount: number
   status: 'pending' | 'paid'
 }
+
